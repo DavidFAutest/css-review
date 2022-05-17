@@ -1,1 +1,28 @@
 /* Add your CSS here */
+
+h1 {
+    color: goldenrod;
+    font-family: 'Faster One', cursive;
+    text-align: center;
+}
+
+body {
+    background-image: url(/images/Spaceplanets.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+
+}
+
+#container {
+    position: relative;
+    width: 250px;
+    height: 200px;
+    margin: 10% auto;
+    left: 0;
+    right: 0;
+}
+
+#cardBody {
+    
+}
