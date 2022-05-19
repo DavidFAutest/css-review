@@ -11,7 +11,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-
 }
 
 #container {
@@ -23,6 +22,11 @@ body {
     right: 0;
 }
 
-#cardBody {
+#cardBox {
+    right: 155px;
+    top: 170px;
+}
+
+#container {
     
 }
